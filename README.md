@@ -18,7 +18,7 @@ Here’s a glimpse of who I am and what I build.
 ---
 
 ## **Projects: Built with Interest and Progress**
-- [**15-640 Distributed Systems** at Carnegie Mellon University](https://github.com/AnuragJCChaturvedi/websocket-benchmark)  
+- [**15-640 Distributed Systems** at Carnegie Mellon University](https://github.com/AnuragJCChaturvedi/15640-Distributed-Systems)  
   Exploring distributed systems concepts through practical applications and benchmarks.
 
 ---
@@ -32,14 +32,14 @@ Here’s a glimpse of who I am and what I build.
 ---
 
 ## **Projects: Built from Curiosity**
-- [**WebSocket Benchmark**](https://github.com/AnuragJCChaturvedi/15640-Distributed-Systems)  
+- [**WebSocket Benchmark**](https://github.com/AnuragJCChaturvedi/websocket-benchmark)  
   Comparing performance between Node.js (interpreted) and Go (compiled) for WebSocket communication.
-- [**Shortest Path Algorithm Analysis**](https://github.com/AnuragJCChaturvedi/15640-Distributed-Systems)  
+- [**Shortest Path Algorithm Analysis**](https://github.com/AnuragJCChaturvedi/dijkstra-and-floyd-warshall-analysis)  
   Evaluating the time and memory efficiency of **Dijkstra** and **Floyd-Warshall** algorithms.
 
 ---
 
-## **Hackathons: Building to Compete**
+## **Hackathons: Built to Compete**
 
 ### 🏦 **Theme: Enhancing Banking Efficiency**
 - **Idea**: Revolutionizing ATM transactions with **Facial Recognition** for seamless authorization and operation.
@@ -70,6 +70,9 @@ Here’s a glimpse of who I am and what I build.
   - Food seekers receive real-time notifications based on proximity and preferences, minimizing food waste and helping those in need.
 - **Tech Stack**: ReactJS (Frontend), Google Maps API, Firebase, Python FastAPI, Chroma Database.  
   - [Frontend & Backend](https://github.com/AnuragJCChaturvedi/generative-food-search)
+
+
+* *... and more*
 
 ---
 
