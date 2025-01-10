@@ -72,7 +72,8 @@ Here’s a glimpse of who I am and what I build.
   - [Frontend & Backend](https://github.com/AnuragJCChaturvedi/generative-food-search)
 
 
-* *... and more*
+*... and more*
+
 
 ---
 
