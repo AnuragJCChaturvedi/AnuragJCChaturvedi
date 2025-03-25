@@ -78,9 +78,9 @@ Here’s a glimpse of who I am and what I build.
 ---
 
 ## **Freelance Experience**
-- [**GFIAL**](https://github.com/AnuragJCChaturvedi/GFIAL-public)  
-  A unified platform for employers, job seekers, researchers, and educational institutions.
-
+- [**GFIAL**](https://www.linkedin.com/company/gfial/about/)  
+  It used to be a unified platform for employers, job seekers, researchers, and educational institutions.
+  
 ---
 
 ## **Top Interests in Community Contributions**
