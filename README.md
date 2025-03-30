@@ -26,8 +26,8 @@ Here’s a glimpse of who I am and what I build.
 ## **Projects: Built to Showcase**
 - [**Outlook Search Enhancer**](https://github.com/AnuragJCChaturvedi/Outlook-Search-Enhancer)  
   Enhances productivity with smarter search capabilities in Outlook.
-- [**CodeMaster: A LeetCode-Type Coding Platform** (In Progress)]  
-  A platform designed for remote code execution, coding challenges, and real-time feedback to empower aspiring developers.
+- [**KubeCode: Practice Coding. Challenge Friends. Learn Better.**](https://github.com/AnuragJCChaturvedi/KubeCode)  
+  A scalable platform enabling remote code execution, interactive coding challenges, and real-time test validation—empowering developers to build skills through practice and peer competition.
 
 ---
 
