@@ -8,7 +8,7 @@ Here’s a glimpse of who I am and what I build.
 - 🔍 Enjoy being behind the software that drives innovation.  
 - 🧠 Experienced problem solver with a focus on practical solutions.  
 - 💻 Experienced with **Java frameworks** like **Spring**, **Hibernate**, and **Spring Boot**.  
-- ⚛️ Experienced with **JavaScript frameworks** such as **ReactJS** and **Node.js**.  
+- ⚛️ Experienced with **JavaScript stack** such as **React** and **Node.js**.  
 - ☁️ Experienced with **AWS services**, enabling scalable and reliable cloud applications.  
 - 🏗️ Experienced in designing and developing **end-to-end solutions** with a strong emphasis on efficiency.  
 - ❤️ Have a special love for the simplicity and power of **C** and **C++**.
